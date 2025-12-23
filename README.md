@@ -1,6 +1,5 @@
 # 👩🏻‍💻 Diêgo Tavares Canafistula
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=5A0B13&center=true&multiline=true&width=445&height=100&lines=D1AEGON;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=7B0E19DA&center=true&vCenter=true&multiline=true&width=900&height=140&lines=D1AEGON;SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
 
 
 **`Desenvolvedor Backend`**
@@ -86,5 +85,3 @@ This profile contains my personal and study projects. Feel free to explore, ask 
 
 <br/>
 <br/>
-
-[![Diaegon's GitHub stats](https://github-readme-stats.vercel.app/api?username=diaegon)](https://github.com/diaegon/github-readme-stats)
