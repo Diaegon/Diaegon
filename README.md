@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-v5.png" width="100%" alt="Diêgo Tavares Canafistula — physics, full-stack, AI engineering. I build full-stack and AI systems for production. I have a Physics degree and started my career in solar-PV engineering, and every project since has followed the same pattern: hit a real problem in the field, then build the software that solves it. Right now that means ApolloDocs full-time — an AI-powered SaaS that automates solar-PV homologation documentation. Fortaleza, CE, Brazil — open to on-site (Fortaleza), remote (Brazil), or remote international. Portuguese (native), English (B2), Spanish (A1)." />
+<img src="assets/banner-v6.png" width="100%" alt="Diêgo Tavares Canafistula — physics, full-stack, AI engineering. I build full-stack and AI systems for production. I have a Physics degree and started my career in solar-PV engineering, and every project since has followed the same pattern: hit a real problem in the field, then build the software that solves it.. Fortaleza, CE, Brazil — open to on-site, remote in Brazil, or remote international. Currently ApolloDocs, cutting a ~2-hour documentation job down to ~5 minutes. Portuguese (native), English (B2), Spanish (A1)." />
 
 </div>
 
