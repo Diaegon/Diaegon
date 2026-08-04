@@ -1,89 +1,77 @@
-# 👩🏻‍💻 Diêgo Tavares Canafistula
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=7B0E19DA&center=true&vCenter=true&multiline=true&width=900&height=140&lines=D1AEGON;SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
+<div align="center">
 
+<img src="assets/banner-hero.svg" width="100%" alt="Diêgo Tavares Canafistula — Physics, full-stack, AI engineering. General-relativity tensor notation on the left, backend architecture and code on the right." />
 
-**`Desenvolvedor Backend`**
+</div>
 
-Hi! I’m Diêgo, a software developer with a degree in Physics from the Federal University of Ceará (UFC).
-I’m currently studying Systems Analysis and Development at Estácio and I’m also an Electrotechnician certified by the Federal Institute of Ceará (IFCE).
+I build full-stack and AI systems for production. I have a Physics degree and started my career in solar-PV
+engineering, and every project since has followed the same pattern: **hit a real problem in the field, then
+build the software that solves it.** Right now that means **ApolloDocs** full-time — an AI-powered SaaS that
+automates solar-PV homologation documentation.
 
-This profile contains my personal and study projects. Feel free to explore, ask questions, or share ideas — I’m always learning.
+- Fortaleza, CE, Brazil — open to on-site (Fortaleza), remote (Brazil), or remote international
+- Currently: **ApolloDocs**, cutting a ~2-hour manual documentation job down to ~5 minutes
+- Portuguese (native) · English (B2) · Spanish (A1)
 
-##### Contato Profissional: [Diêgo Tavares Canafistula](https://www.linkedin.com/in/diegocanafs/)
+<img src="assets/rule-efe.svg" width="100%" alt="" />
 
-##### API de geração de projetos solares: [ApolloDocs](https://apollodocs.onrender.com)
-<p align="center">
-<a href="https://www.linkedin.com/in/diegocanafs/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="mailto:diego.canafistula@gmail.com"><img width="32px" alt="mail" title="Email" src="https://img.icons8.com/?size=100&id=44829&format=png&color=000000"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+## About
 
-<p align="left">
-    <a href="https://github.com/diaegon?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/diaegon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/diaegon?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/diaegon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+The tensor notation in the banner isn't decoration — it's the General Relativity coursework from my Physics
+degree, sitting next to the architecture diagrams from the systems I ship today. Same rigor, different notation.
 
----
+A tensor doesn't change when you change coordinates; only its components do. Most of what I've built works the
+same way — the problem stays the problem, and the basis changes from field work to software.
 
-### 🤖 STACK
+<img src="assets/timeline.svg" width="100%" alt="Worldline: Electrotechnics (IFCE) → Physics BSc (UFC) → Solar PV design, 7+ years at Fam Engenharia → Backend / AI developer at Vertere AI → Full-stack and AI engineering, ApolloDocs, today." />
 
+**Where the pattern shows up:**
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+- Solar PV designer → repetitive manual documentation → built **Solar-Maker**, a desktop automation tool →
+  which became **ApolloDocs**, a full-stack SaaS cutting homologation documentation from ~2 hours to ~5 minutes
+- Backend developer at Vertere AI → construction teams needed BIM/IFC quantity lookups without opening Revit →
+  built an automated takeoff-extraction pipeline (Celery + ifcopenshell), saving ~30 min per query, and led
+  the data-warehouse initiative that feeds an AI agent answering questions about project status
+- Personal investing research → built **Warren**, a RAG-grounded portfolio analyzer that reasons over
+  Warren Buffett's shareholder letters
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img src="assets/rule-cov.svg" width="100%" alt="" />
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+## Tech stack
 
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+<img src="assets/stack-card.svg" width="100%" alt="Backend: Python, FastAPI, Flask, SQLAlchemy, Alembic, Pydantic, Celery. Frontend: TypeScript, Next.js, React, Tailwind CSS, TanStack Query. AI/LLM: OpenAI, Claude, Gemini, LangChain, Qdrant. Data: PostgreSQL, MySQL, SQLite, Redis, ChromaDB. Infra and tools: Docker, GitHub Actions, NGINX, Linux, AWS, GCP." />
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+## Featured
 
-<br/>
-<br/>
+| | |
+| :--- | :--- |
+| **[ApolloDocs](https://github.com/Diaegon)** · full-stack AI SaaS | Solar-PV homologation documents for the ENEL-CE utility. Jinja2 + WeasyPrint PDF generation, PyMuPDF form filling, self-managed infra. <br/> `Next.js 15` `React 19` `TypeScript` `FastAPI` `PostgreSQL 16` |
+| **[Warren](https://github.com/Diaegon)** · RAG analysis | Investment analysis grounded in Buffett's shareholder letters. <br/> `FastAPI` `ChromaDB` `GPT-4o` |
+| **Vertere Mind** · AI SaaS for construction | AI-powered SaaS for the AEC sector — turns unstructured project data (IFC/BIM models, meeting transcripts, spreadsheets, budgets) into structured, queryable insight. Knowledge-base RAG chat, meeting intelligence, talk-to-your-database SQL agent, BIM quantity extraction, budget intelligence, and multi-provider LLM routing with automatic fallback. <br/> `Flask 3` `PostgreSQL` `Qdrant` `Redis` `Celery` `React` |
+| **[Solar-Maker](https://github.com/Diaegon)** · desktop automation | The origin of ApolloDocs — automating the documentation job I was doing by hand. <br/> `Python` |
+| **[dServer](https://github.com/Diaegon)** · infrastructure | Self-managed Linux host behind NGINX and Cloudflare Tunnel. <br/> `Docker Compose` `NGINX` `Cloudflare` |
+
+<img src="assets/rule-riemann.svg" width="100%" alt="" />
+
+## Currently building
+
+<img src="assets/building-card.svg" width="100%" alt="ApolloDocs (primary focus): full-stack AI SaaS for solar-PV homologation documentation, Next.js 15, FastAPI, PostgreSQL 16. Warren: RAG portfolio analyzer, FastAPI, ChromaDB, GPT-4o. dServer: self-managed Linux infrastructure, Docker Compose, NGINX, Cloudflare." />
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Diaegon&show_icons=true&hide_border=true&bg_color=08080B&title_color=C81E3C&text_color=C9C5CE&icon_color=C81E3C" width="48%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diaegon&layout=compact&hide_border=true&bg_color=08080B&title_color=C81E3C&text_color=C9C5CE" width="42%" alt="Top languages" />
+
+</div>
+
+## Get in touch
+
+[![Email](https://img.shields.io/badge/Email-08080B?style=for-the-badge&logo=gmail&logoColor=C81E3C&labelColor=08080B)](mailto:diego.canafistula@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-08080B?style=for-the-badge&logo=linkedin&logoColor=C81E3C&labelColor=08080B)](https://linkedin.com/in/diegocanafs)
+[![Website](https://img.shields.io/badge/Website-08080B?style=for-the-badge&logo=googlechrome&logoColor=C81E3C&labelColor=08080B)](https://www.diegocanafs.com.br)
+
+<div align="center">
+<sub><code>T'^(i'j'k'l') = A^i'_i A^j'_j A^k'_k A^l'_l T^ijkl</code> — same transformation rules, new basis.</sub>
+</div>
